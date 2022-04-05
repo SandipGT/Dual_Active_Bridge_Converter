@@ -1,1 +1,2 @@
 1. Basics of DAB: https://imperix.com/doc/implementation/dual-active-bridge-control
+2.https://ieeexplore.ieee.org/document/175280
